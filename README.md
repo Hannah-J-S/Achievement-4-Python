@@ -1,2 +1,2 @@
 # snake-rep
-Python code
+teh rpject was xxxxx
