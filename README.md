@@ -5,7 +5,7 @@
 Instacart is an online gorcery shopping service. 
 
 ### Context
-Instacart is interested in improving their marketing efforts. To this end they want to learn more about their customer profiles and learn how to target different customer segemnts and how. The aim of this analysis is to inform instacart how to target which customers and wwith what products.
+Instacart is interested in improving their marketing efforts. To this end they want to learn more about their customer profiles and learn how to target different customer segements and with what products. The aim of this analysis is to inform Instacart on how to target which customers and with what products.
 Several key question will be answered through this analysis.
 
 ### Key Questions
